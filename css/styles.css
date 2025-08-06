@@ -335,6 +335,7 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 /* portfolio section 4 */
@@ -439,7 +440,6 @@ img {
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  display: flex;
   align-items: baseline;
 }
 
